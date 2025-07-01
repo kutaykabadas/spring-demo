@@ -1,0 +1,11 @@
+# Eclipse/IDEA/VSCode junk
+.metadata/
+*.iml
+*.class
+*.log
+*.swp
+.DS_Store
+.idea/
+.vscode/
+target/
+bin/
