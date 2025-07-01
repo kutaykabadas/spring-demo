@@ -1,0 +1,16 @@
+package com.example.mycoolapp.common;
+
+public class SwimCoach implements ICoach {
+	public SwimCoach() {
+
+	}
+	
+	
+	/**
+	 * Can create beans of a third-party class
+	 */
+	@Override
+	public String getDailyWorkout() {
+		return "SwimCoach.getDailyWorkout()";
+	}
+}

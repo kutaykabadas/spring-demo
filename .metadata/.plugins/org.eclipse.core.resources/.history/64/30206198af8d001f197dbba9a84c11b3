@@ -1,0 +1,12 @@
+package com.example.mycoolapp.common;
+
+public class SwimCoach implements ICoach {
+	public SwimCoach() {
+
+	}
+
+	@Override
+	public String getDailyWorkout() {
+		return "SwimCoach.getDailyWorkout()";
+	}
+}

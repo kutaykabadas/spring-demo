@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<title>Hello World - Input Form</title>
+	<link rel="stylesheet" th:href="@{/css/demo.css}" />
+</head>
+	<form th:action="@{/processForm}" method="GET">
+		
+	</form>
+
+
+</html>

@@ -1,0 +1,6 @@
+package com.example.thymeleafdemo.model;
+
+@Model
+public class Student {
+
+}

@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<title>Student Confirmation/title>
+</head>
+
+<body>
+	Student first name: <span th:object="${student}" th:text="${student.FirstName}" />
+	<br />
+	Student last name: <span th:object="${student}" th:text="${student.lastName}" />
+</body>
+
+</html>
