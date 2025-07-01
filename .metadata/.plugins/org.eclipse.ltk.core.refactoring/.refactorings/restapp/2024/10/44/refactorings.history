@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;com.example.restapp.rest.RestController&apos; to &apos;RestappController&apos;&#x0D;&#x0A;- Original project: &apos;restapp&apos;&#x0D;&#x0A;- Original element: &apos;com.example.restapp.rest.RestController&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.restapp.rest.RestappController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RestController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.restapp.rest{RestController.java[RestController" matchStrategy="1" name="RestappController" qualified="false" references="true" similarDeclarations="false" stamp="1730335445263" textual="false" version="1.0"/>
-</session>
