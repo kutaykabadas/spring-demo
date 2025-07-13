@@ -7,5 +7,5 @@ This is a cheatsheet demo for Spring Boot application.
 - CRUD
 - CRUD(JPARepository)
 - Security 
-- Thymeleaf
+- Thymeleaf MVC
 - Validation
