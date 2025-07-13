@@ -8,3 +8,4 @@ This is a cheatsheet demo for Spring Boot application.
 - CRUD(JPARepository)
 - Security 
 - Thymeleaf
+- Validation
